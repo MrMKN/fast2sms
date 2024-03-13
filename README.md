@@ -1,6 +1,6 @@
 # Fast2 SMS
 
-> Python package for [FAST2 SMS](https://www.fast2sms.com) API Client
+> Python client for [FAST2 SMS](https://www.fast2sms.com) API 
 
 ## Client setup
 
